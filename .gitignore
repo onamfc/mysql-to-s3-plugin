@@ -1,3 +1,4 @@
 /.idea
 lambda_function.zip
 lambda/build/
+.env

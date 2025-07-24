@@ -100,7 +100,7 @@ TIMESTAMP_COLUMN=created_at  # or e.g., 'timestamp' or 'log_date'
 
 Run the script:
 ```
-python your_script_name.py
+python main.py
 ```
 
 The script will:

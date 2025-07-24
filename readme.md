@@ -1,4 +1,5 @@
 # MySQL to S3 Exporter
+[![Packagist License](https://img.shields.io/badge/Licence-MIT-blue)](http://choosealicense.com/licenses/mit/)
 
 This Python script extracts data from a MySQL database in chunks, converts the data to Parquet files, organizes the files based on a `TIMESTAMP_COLUMN` timestamp, and uploads them to an Amazon S3 bucket.
 
@@ -164,8 +165,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This project is licensed under the MIT License.
 
 ---
-
-## Contact
-For any issues, please contact:
-- **Name:** Brandon Estrella
-- **Email:** brandon@sitetransition.com
